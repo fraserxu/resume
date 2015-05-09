@@ -1,12 +1,13 @@
 
 Fraser Xu
 
+A self-taught JavaScript Developer, major in English Language and
+Culture, currently work and live in Shanghai, China.
+
 -   Blog: fraserxu.me
 -   Date of Birth: 10-09-1991
 -   Github: @fraserxu
 -   Twitter: @fraserxu
--   Description: A self-taught JavaScript Developer, major in English
-    Language and Culture, currently work and live in Shanghai, China.
 
 My skills
 
@@ -15,7 +16,7 @@ My skills
 -   CROSS PLATFORM WEB DEVELOPMENT(NW.js, React-native, Ionic)
 -   TOOLS(Browserify, Makefile, npm, webpack)
 -   OTHERS(WebRTC, XMPP, Nodejs)
--   Very few experience with Python, Ruby, Go…
+-   Very limited experience with Python, Ruby, Go…
 
 My working experience
 
@@ -26,13 +27,13 @@ My working experience
 My open source contribution
 
 -   Co-organiser of 2015 JSConf China - ShenJS
--   Organiser of Shanghai JavaScript Meetup _the biggest monthly JS
+-   Co-Organiser of Shanghai JavaScript Meetup _the biggest monthly JS
     event in Shanghai_
 -   Co-founder of react-china community
 
 My project
 
-Open source
+- Open source
 
 -   data-canvas - An app to visualize the data from data-canvas project
 -   gifme - The easiest way to make and share a gif, right in the
@@ -44,7 +45,7 @@ Open source
     angularjs.
 -   More on github
 
-Client
+- Client
 
 -   Front-end architecture for the voter registration system for
     Myanmar(WIP)[React.js, NW.js, D3.js, Browserify, Immutable.js…]
