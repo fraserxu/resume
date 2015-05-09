@@ -47,3 +47,7 @@ A self-taught JavaScript Developer, major in English Language and Culture, curre
 * [csviz](http://csviz.github.io/csviz) Open data map with csv file[React.js, Flux, D3...]
 
 *I love cats and a girl, her name is Vigi.*
+
+---
+
+Check this file as [PDF](https://github.com/fraserxu/resume/raw/master/index.pdf) | [docx](https://github.com/fraserxu/resume/raw/master/index.docx) | [txt](https://github.com/fraserxu/resume/raw/master/index.txt)

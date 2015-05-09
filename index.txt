@@ -60,3 +60,7 @@ My project
 -   csviz Open data map with csv file[React.js, Flux, D3…]
 
 _I love cats and a girl, her name is Vigi._
+
+------------------------------------------------------------------------
+
+Check this file as PDF | docx | txt
