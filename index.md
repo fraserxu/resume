@@ -1,4 +1,6 @@
 Fraser Xu
+=========
+
 ---
 
 A self-taught JavaScript Developer, major in English Language and Culture, currently work and live in Shanghai, China.
@@ -18,15 +20,15 @@ A self-taught JavaScript Developer, major in English Language and Culture, curre
 
 ### My working experience
 
-* **2013~** Senior Front-end Developer at [Wiredcraft](http://wiredcraft.com/)
-* **2012-2013** Front-end intern at [Wiredcraft](http://wiredcraft.com/)
-* **2011-2012** Front-end intern at [Geekpark](http://geekpark.net/)
+* **2013 ~ ** Senior Front-end Developer at [Wiredcraft](http://wiredcraft.com/)
+* **2012 - 2013** Front-end intern at [Wiredcraft](http://wiredcraft.com/)
+* **2011 - 2012** Front-end intern at [Geekpark](http://geekpark.net/)
 
 ### My open source contribution
 
 * Co-organiser of 2015 JSConf China - [ShenJS](http://2015.jsconf.cn/)
 * Co-Organiser of [Shanghai JavaScript Meetup](http://www.meetup.com/Shanghai-JavaScript-Meetup/) *the biggest monthly JS event in Shanghai*
-* Co-founder of [react-china](http://react-china.org/) community
+* Core member of [react-china](http://react-china.org/) community
 
 ### My project
 

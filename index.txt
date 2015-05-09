@@ -1,5 +1,9 @@
 
-Fraser Xu
+
+FRASER XU
+
+
+------------------------------------------------------------------------
 
 A self-taught JavaScript Developer, major in English Language and
 Culture, currently work and live in Shanghai, China.
@@ -20,16 +24,16 @@ My skills
 
 My working experience
 
--   2013~ Senior Front-end Developer at Wiredcraft
--   2012-2013 Front-end intern at Wiredcraft
--   2011-2012 Front-end intern at Geekpark
+-   2013 ~ Senior Front-end Developer at Wiredcraft
+-   2012 - 2013 Front-end intern at Wiredcraft
+-   2011 - 2012 Front-end intern at Geekpark
 
 My open source contribution
 
 -   Co-organiser of 2015 JSConf China - ShenJS
 -   Co-Organiser of Shanghai JavaScript Meetup _the biggest monthly JS
     event in Shanghai_
--   Co-founder of react-china community
+-   Core member of react-china community
 
 My project
 
