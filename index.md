@@ -13,16 +13,24 @@ A self-taught JavaScript Developer, major in English Language and Culture, curre
 ### My skills
 * **Front-end MVC frameworks**(React.js, Angular.js)
 * **Data visualization**(D3.js, Chartist.js, Leaflet.js, Mapbox.js)
-* **Cross platform web development**(NW.js, React-native, Ionic)
+* **Cross platform web development**(electron, React-native, Ionic)
 * **Tools**(Browserify, Makefile, npm, webpack)
 * **Others**(WebRTC, XMPP, Nodejs)
 * Very limited experience with Python, Ruby, Go...
 
 ### My working experience
 
-* **2013 ~ ** Senior Front-end Developer at [Wiredcraft](http://wiredcraft.com/)
-* **2012 - 2013** Front-end intern at [Wiredcraft](http://wiredcraft.com/)
-* **2011 - 2012** Front-end intern at [Geekpark](http://geekpark.net/)
+* **07/2013 - 09/2015** Web Developer at [Wiredcraft](http://wiredcraft.com/)
+  - Make project protype with project manager and designer
+  - Implement features for the front-end part of the project
+  - Front-end architecture
+  - Code review
+
+* **01/2012 - 05/2013** Front-end intern at [Wiredcraft](http://wiredcraft.com/)
+  - Implement features for the front-end part of the project
+  - Learn and investigate tools that is needed for the project
+  - Writing test for the code
+
 
 ### My open source contribution
 
@@ -45,8 +53,6 @@ A self-taught JavaScript Developer, major in English Language and Culture, curre
 * [sweepboard](http://sweepboard.com/) - A Better GitHub Issue Queue. Transform your GitHub issue queue into a realtime kanban for your whole team
 * [Magic bus](https://www.magicbus.io/) An Ionic based hybrid application(*In Beta*)[Angular.js, ng-cordova...]
 * [csviz](http://csviz.github.io/csviz) Open data map with csv file[React.js, Flux, D3...]
-
-*I love cats and a girl, her name is Vigi.*
 
 ---
 
