@@ -14,3 +14,7 @@ index.txt: index.md
 
 clean:
 	rm -f *.html *.pdf *.docx *.txt
+
+
+publish:
+	surge -d resume.fraserxu.me
