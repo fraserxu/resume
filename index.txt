@@ -15,7 +15,8 @@ Culture, currently work and live in Melbourne, Australia.
 
 My skills
 
--   FRONT-END MVC FRAMEWORKS(React.js, Angular.js, Elm…)
+-   Experience with modern FRONT-END MVC FRAMEWORKS(React.js,
+    Angular.js, Elm…)
 -   DATA VISUALIZATION(D3.js, Chartist.js, Leaflet.js, Mapbox.js)
 -   CROSS PLATFORM WEB DEVELOPMENT(Electron, React Native, Ionic)
 -   TOOLS(Browserify, Makefile, npm, webpack)
@@ -24,13 +25,15 @@ My skills
 
 My working experience
 
--   11/2015 - Front End Developer at Envato
+11/2015 -  Front End Developer at Envato
+
 -   Front-end architecture
 -   JavaScript infrastructure
 -   JavaScript open source advocator
 -   Code review
 
--   07/2013 - 09/2015 Web Developer at Wiredcraft
+07/2013 - 09/2015 Web Developer at Wiredcraft
+
 -   Make project protype with project manager and designer
 -   Implement features for the front-end part of the project
 -   Front-end architecture

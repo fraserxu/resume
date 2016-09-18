@@ -11,7 +11,7 @@ A self-taught JavaScript Developer, major in English Language and Culture, curre
 * Twitter: [\@fraserxu](https://twitter.com/fraserxu)
 
 ### My skills
-* **Front-end MVC frameworks**(React.js, Angular.js, Elm...)
+* Experience with modern **Front-end MVC frameworks**(React.js, Angular.js, Elm...)
 * **Data visualization**(D3.js, Chartist.js, Leaflet.js, Mapbox.js)
 * **Cross platform web development**(Electron, React Native, Ionic)
 * **Tools**(Browserify, Makefile, npm, webpack)
@@ -20,13 +20,13 @@ A self-taught JavaScript Developer, major in English Language and Culture, curre
 
 ### My working experience
 
-* **11/2015 - ** Front End Developer at [Envato](http://envato.com/)
+#### **11/2015 - ** Front End Developer at [Envato](http://envato.com/)
   - Front-end architecture
   - JavaScript infrastructure
   - JavaScript open source advocator
   - Code review
 
-* **07/2013 - 09/2015** Web Developer at [Wiredcraft](http://wiredcraft.com/)
+#### **07/2013 - 09/2015** Web Developer at [Wiredcraft](http://wiredcraft.com/)
   - Make project protype with project manager and designer
   - Implement features for the front-end part of the project
   - Front-end architecture
