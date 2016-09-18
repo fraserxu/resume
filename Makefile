@@ -3,8 +3,8 @@ all: index.html index.pdf index.docx index.txt
 index.html: index.md style.css
 	pandoc --standalone -c style.css --from markdown --to html -o index.html index.md
 
-index.pdf: index.html
-	pandoc -o index.pdf index.md
+# index.pdf: index.html
+# 	pandoc -o index.pdf index.md
 
 index.docx: index.md
 	pandoc --from markdown --to docx -o index.docx index.md

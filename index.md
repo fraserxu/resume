@@ -3,7 +3,7 @@ Fraser Xu
 
 ---
 
-A self-taught JavaScript Developer, major in English Language and Culture, currently work and live in Shanghai, China.
+A self-taught JavaScript Developer, major in English Language and Culture, currently work and live in Melbourne, Australia.
 
 * Blog: [fraserxu.me](https://fraserxu.me)
 * Date of Birth: 10-09-1991
@@ -11,14 +11,20 @@ A self-taught JavaScript Developer, major in English Language and Culture, curre
 * Twitter: [\@fraserxu](https://twitter.com/fraserxu)
 
 ### My skills
-* **Front-end MVC frameworks**(React.js, Angular.js)
+* **Front-end MVC frameworks**(React.js, Angular.js, Elm...)
 * **Data visualization**(D3.js, Chartist.js, Leaflet.js, Mapbox.js)
-* **Cross platform web development**(electron, React-native, Ionic)
+* **Cross platform web development**(Electron, React Native, Ionic)
 * **Tools**(Browserify, Makefile, npm, webpack)
 * **Others**(WebRTC, XMPP, Nodejs)
-* Very limited experience with Python, Ruby, Go...
+* Experience with Python, Ruby, Go...
 
 ### My working experience
+
+* **11/2015 - ** Front End Developer at [Envato](http://envato.com/)
+  - Front-end architecture
+  - JavaScript infrastructure
+  - JavaScript open source advocator
+  - Code review
 
 * **07/2013 - 09/2015** Web Developer at [Wiredcraft](http://wiredcraft.com/)
   - Make project protype with project manager and designer
@@ -26,21 +32,16 @@ A self-taught JavaScript Developer, major in English Language and Culture, curre
   - Front-end architecture
   - Code review
 
-* **01/2012 - 05/2013** Front-end intern at [Wiredcraft](http://wiredcraft.com/)
-  - Implement features for the front-end part of the project
-  - Learn and investigate tools that is needed for the project
-  - Writing test for the code
-
-
 ### My open source contribution
 
-* Co-organiser of 2015 JSConf China - [ShenJS](http://2015.jsconf.cn/)
+* Co-organiser of 2015-2016 [JSConf China](http://jsconf.cn/)
 * Co-Organiser of [Shanghai JavaScript Meetup](http://www.meetup.com/Shanghai-JavaScript-Meetup/) *the biggest monthly JS event in Shanghai*
 * Core member of [react-china](http://react-china.org/) community
 
 ### My project
 
 #### - Open source
+* [soundredux-native](https://github.com/fraserxu/soundredux-native) - A soundcloud app build with React Native and Redux
 * [data-canvas](http://fraserxu.me/data-canvas/) - An app to visualize the data from [data-canvas](http://datacanvas.org/sense-your-city/) project
 * [gifme](https://github.com/fraserxu/gifme) - The easiest way to make and share a gif, right in the browser.
 * [jingfm-cli](https://github.com/fraserxu/jingfm-cli) - start playing music from your awesome command line with jingfm-cli

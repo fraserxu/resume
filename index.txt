@@ -6,7 +6,7 @@ FRASER XU
 ------------------------------------------------------------------------
 
 A self-taught JavaScript Developer, major in English Language and
-Culture, currently work and live in Shanghai, China.
+Culture, currently work and live in Melbourne, Australia.
 
 -   Blog: fraserxu.me
 -   Date of Birth: 10-09-1991
@@ -15,14 +15,20 @@ Culture, currently work and live in Shanghai, China.
 
 My skills
 
--   FRONT-END MVC FRAMEWORKS(React.js, Angular.js)
+-   FRONT-END MVC FRAMEWORKS(React.js, Angular.js, Elm…)
 -   DATA VISUALIZATION(D3.js, Chartist.js, Leaflet.js, Mapbox.js)
--   CROSS PLATFORM WEB DEVELOPMENT(electron, React-native, Ionic)
+-   CROSS PLATFORM WEB DEVELOPMENT(Electron, React Native, Ionic)
 -   TOOLS(Browserify, Makefile, npm, webpack)
 -   OTHERS(WebRTC, XMPP, Nodejs)
--   Very limited experience with Python, Ruby, Go…
+-   Experience with Python, Ruby, Go…
 
 My working experience
+
+-   11/2015 - Front End Developer at Envato
+-   Front-end architecture
+-   JavaScript infrastructure
+-   JavaScript open source advocator
+-   Code review
 
 -   07/2013 - 09/2015 Web Developer at Wiredcraft
 -   Make project protype with project manager and designer
@@ -30,14 +36,9 @@ My working experience
 -   Front-end architecture
 -   Code review
 
--   01/2012 - 05/2013 Front-end intern at Wiredcraft
--   Implement features for the front-end part of the project
--   Learn and investigate tools that is needed for the project
--   Writing test for the code
-
 My open source contribution
 
--   Co-organiser of 2015 JSConf China - ShenJS
+-   Co-organiser of 2015-2016 JSConf China
 -   Co-Organiser of Shanghai JavaScript Meetup _the biggest monthly JS
     event in Shanghai_
 -   Core member of react-china community
@@ -46,6 +47,8 @@ My project
 
 - Open source
 
+-   soundredux-native - A soundcloud app build with React Native and
+    Redux
 -   data-canvas - An app to visualize the data from data-canvas project
 -   gifme - The easiest way to make and share a gif, right in the
     browser.
